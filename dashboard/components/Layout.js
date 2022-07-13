@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
 
     return (
         <>  
-            <Meta />
+            <Meta title="Code With Prince"/>
             <Navigationbar />
             <div className={styles.container}>
                 <div className={styles.main}>
